@@ -1,24 +1,11 @@
 
-<!--
-**kaziasifjawwad/kaziasifjawwad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi there, I'm Asif!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaziasifjawwad&show_icons=true&theme=radical) -->
-
-#Hi there, I'm Asif!
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=kaziasifjawwad&show_icons=true&theme=radical" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaziasifjawwad&layout=compact" />
 
 
 <img align="left" alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
 <img align="left" alt="Spring" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
+<img align="left" alt="Spring" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
